@@ -1,4 +1,4 @@
-# README: Movie Rating Prediction
+## Movie Rating Prediction
 
 ## Author: Hetanshi Acharya
 ## Batch: July
